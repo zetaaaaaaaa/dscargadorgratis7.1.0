@@ -1,7 +1,7 @@
-🍥......Bot Iniciado UwU......🍣
-Bienvenido al bot de descarga 7.1.0
+✔️......Bot Iniciado pro......✔️
+Bienvenido al bot de descarga 1.0
 
-👧🏻Hola Onichan soy una linda Loli que te ayudará a descargar gratis :)
+🕴️Hola soy el creador @Zeta30 que te ayudará a descargar gratis :)
 
 💡 Como Descargar
 
@@ -11,35 +11,35 @@ Bienvenido al bot de descarga 7.1.0
 
 3. Los comando para configurar el bot son:
 
-/start ⛩Iniciar Bot🍥
+/start 💎Iniciar Bot💎
 
-/tutorial 📖Abrir el Tutorial
+/tutorial 🧾Abrir el Tutorial
 
 /myuser 👤Información 
 
 /files 📋Archivos subidos
 
-/dir 📂Carpeta a subir
+/dir 📂🔺Carpeta a subir🔺
 
-/host ⚙️Configura URL de la nube ☁️
+/host ⚙️Configura URL de la nube ⛈️
 
-/account ⚙️Configura (usuario,contraseña)
+/account ⚙️Configura (🔐usuario,contraseña🔐)
 
-/repoid 📝Repo ID (Dejan en el #4)
+/repoid 📝Repo ID (Dejan en el #3,4,5)
 
-/zips ⚙️Configura Tamaños de los archivos📦
+/zips ⚙️Configura Tamaños de los archivos📚
 
-/proxy 💡Activa Proxy (Más velocidad)
+/proxy 💡💯Activa Proxy (Más velocidad)💯
 
-/uptype ⏫Cambia subda de los archivos (evidence,draft,blog,calendar)
+/uptype 📟Cambia subda de los archivos (evidence,draft,blog,calendar)
 
-/cloud ☁️Cambia tipo (moodle o cloud)
+/cloud 🌩️Cambia tipo (moodle o cloud)🌩️
 
 🚫Comandos de Administrador UwU🚫
 
-/adduser ✳️Permite acceso a un usuario
-/addadmin ✳️Poner de admin a un usuario
-/banuser 🚫Ban vete la tu casa chaval
-/getdb 🗂Obtener base de datos
+/adduser ❤️Permite acceso a un usuario❤️
+/addadmin 💎Poner de admin a un usuario💎
+/banuser 🥾Ban vete la tu casa chaval🥾
+/getdb 📔Obtener base de datos📔
 
 ✳️Contactar con el admin en caso de problemas✳️
