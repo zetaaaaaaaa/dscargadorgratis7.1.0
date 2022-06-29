@@ -2,7 +2,7 @@ from os import getenv
 
 # TELEGRAM
 
-USERID = int(getenv('1502039820'))
+USERID = int(getenv('17897679'))
 
 if OWNER is None:
 
