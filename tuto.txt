@@ -35,7 +35,7 @@ Bienvenido al bot de descarga 1.0
 
 /cloud 🌩️Cambia tipo (moodle o cloud)🌩️
 
-🚫Comandos de Administrador UwU🚫
+✔️Comandos de Administrador bot-pro✔️
 
 /adduser ❤️Permite acceso a un usuario❤️
 /addadmin 💎Poner de admin a un usuario💎
