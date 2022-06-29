@@ -477,12 +477,12 @@ def onmessage(update,bot:ObigramClient):
         thread.store('msg',message)
 
         if '/start' in msgText:
-            start_msg = '🍜 Bot Propiedad del Jaguar⛩\n\n'
+            start_msg = '😁 Bot creado por @Zeta30 😁 \n\n'
             start_msg+= '🔗 Enlaces soportados enlaces directos\n\n'
             start_msg+= '❔ Como Descargar\n\n'
-            start_msg+= '1. Envía el enlace directo o comparte desde Telegram el archivo que quieres descargar.\n'
-            start_msg+= '2. Usa el TXT de descarga que se genera y los abres con el XDownloader\n\n'
-            start_msg+= '👩🏻‍💻Para saber los comandos solamente es poer el comando /tutorial'
+            start_msg+= '🔺. Envía el enlace directo o comparte desde Telegram el archivo que quieres descargar.\n'
+            start_msg+= '🔻. Usa el TXT de descarga que se genera y los abres con el XDownloader\n\n'
+            start_msg+= '㊙️Para saber los comandos solamente es poer el comando /tutorial'
             bot.editMessageText(message,start_msg)
         elif '/files' == msgText and user_info['cloudtype']=='moodle':
              proxy = ProxyCloud.parse(user_info['proxy'])
